@@ -39,7 +39,7 @@ CLIP_PRETRAINED: "EVA02-CLIP-B-16"
 CACHE_DIR: "path_to_your_declip_ckpt"
 ``` 
 
-To train the DeCLIP with CAT-Seg, please run the following script:
+To train the PCA-Seg with CAT-Seg, please run the following script:
 ``` 
 sh run.sh [CONFIG] [NUM_GPUS] [OUTPUT_DIR] [OPTS]
 
