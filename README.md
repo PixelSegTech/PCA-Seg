@@ -60,8 +60,7 @@ sh eval.sh configs/eva_vitb_384.yaml 4 output/ MODEL.WEIGHTS path/to/trained_wei
 sh eval.sh configs/eva_vitl_336.yaml 4 output/ MODEL.WEIGHTS path/to/trained_weights.pth
 ```
 
-**Note:**  
-Due to an accidental operation in VSCode, the originally trained checkpoint was permanently deleted. The current checkpoint provided here was retrained and may have slight differences compared to the one reported in the paper. However, the overall performance remains consistent. Thank you for your understanding.
+
 
 
 ## 🙏 Citing PCA-Seg 
